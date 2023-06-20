@@ -114,7 +114,7 @@
     "ramda": "0.28.0",
     "redlock": "5.0.0-beta.2",
     "sanitize-filename": "1.6.3",
-    "semver": "7.3.8",
+    "semver": "7.5.2",
     "set-interval-async": "3.0.2",
     "showdown": "2.1.0",
     "source-map-support": "0.5.21",
