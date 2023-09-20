@@ -75,7 +75,7 @@
     "express-session": "1.17.3",
     "fast-json-patch": "3.1.1",
     "github-api": "3.4.0",
-    "graphql": "16.6.0",
+    "graphql": "16.8.1",
     "graphql-constraint-directive": "4.1.2",
     "graphql-import": "1.0.2",
     "graphql-redis-subscriptions": "2.6.0",
