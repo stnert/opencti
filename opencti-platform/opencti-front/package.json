@@ -33,7 +33,7 @@
     "mdi-material-ui": "7.6.0",
     "moment": "2.29.4",
     "moment-timezone": "0.5.40",
-    "pdfmake": "0.2.7",
+    "pdfmake": "0.2.15",
     "prop-types": "15.8.1",
     "qrcode": "1.5.1",
     "ramda": "0.28.0",
