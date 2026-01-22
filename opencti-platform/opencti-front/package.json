@@ -29,7 +29,7 @@
     "html-to-pdfmake": "2.4.11",
     "js-file-download": "0.4.12",
     "leaflet": "1.9.3",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "mdi-material-ui": "7.6.0",
     "moment": "2.29.4",
     "moment-timezone": "0.5.40",
